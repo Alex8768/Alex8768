@@ -1,16 +1,64 @@
-## Hi there 👋
+# Aleksandr Ladygin
 
-<!--
-**Alex8768/Alex8768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / LLM Engineer & Systems Architect
 
-Here are some ideas to get you started:
+I build applied AI systems focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Retrieval Augmented Generation (RAG)
+- AI agents
+- knowledge retrieval systems
+- AI automation pipelines
+- tool-integrated LLM systems
+
+---
+
+## Main Project
+
+### AI Agent Hub
+
+AI Agent Hub is an experimental platform for building AI agent systems with retrieval, memory and tool orchestration.
+
+Key areas explored in the project:
+
+- RAG pipelines
+- agent orchestration
+- memory systems
+- reasoning workflows
+- AI automation
+
+Repository  
+https://github.com/Alex8768/AI-Agent-Hub-V3
+
+---
+
+## Tech Focus
+
+- Python
+- FastAPI
+- FAISS
+- Qdrant
+- LLM integration
+- AI orchestration architectures
+
+---
+
+## Current Focus
+
+Building AI systems that combine:
+
+- retrieval
+- reasoning
+- memory
+- tool usage
+
+into production-ready AI workflows.
+
+---
+
+## Connect
+
+LinkedIn  
+https://www.linkedin.com/in/aleksandr-ladygin
+
+GitHub  
+https://github.com/Alex8768
